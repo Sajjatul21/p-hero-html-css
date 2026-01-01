@@ -16,4 +16,17 @@ nav li a {
 
 nav li:hover {
     background-color: lightgray;
+    display: block;
+}
+
+/* nested navbar */
+nav li .dropdown {
+    display: none;
+    position: absolute;
+    background-color: lightcyan;
+    padding-left: 10px;
+}
+
+nav li:hover .dropdown {
+    display: block;
 }

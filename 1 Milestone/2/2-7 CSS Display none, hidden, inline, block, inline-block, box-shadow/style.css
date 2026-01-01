@@ -1,0 +1,23 @@
+.blog {
+    background-color: lightgreen;
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid palevioletred;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px tomato;
+}
+
+.second {
+    /* display: none; */
+    /* display: inline; */
+
+}
+
+.adipisicing {
+    color: red;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    display: inline-block;
+    /* display: block; */
+}

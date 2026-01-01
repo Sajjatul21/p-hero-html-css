@@ -1,0 +1,41 @@
+.header-container {
+    /* background-color: rebeccapurple; */
+    height: 300px;
+    background-image: url(images/image-1.jpeg);
+    /* background-repeat: repeat-x;
+    background-repeat: repeat-y; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    background-size: contain;
+}
+
+.header {
+    color: white;
+    text-align: center;
+}
+
+h1 {}
+
+.blog {
+    background-color: lightgreen;
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid palevioletred;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px tomato;
+}
+
+.second {
+    /* display: none; */
+    /* display: inline; */
+
+}
+
+.adipisicing {
+    color: red;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    display: inline-block;
+    /* display: block; */
+}
